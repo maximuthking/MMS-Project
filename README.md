@@ -32,7 +32,7 @@
 
 사용자 편의를 위해 제작된 모드 다운로더 프로그램입니다. 아래 링크에서 압축된 폴더를 다운로드할 수 있습니다.
 
-*   **[막시무스 모드 다운로더 다운로드](https://drive.google.com/drive/folders/17l_tuUPzRN3i8p4q6DRL23mWVsS60pgq?usp=sharing)**
+*   **[막시무스 모드 다운로더 다운로드](https://drive.google.com/file/d/1YuBcFZwS-hZ3CYP1HtdOwU9Aee-Ew6_p/view?usp=sharing)**
 
 ### 설치 및 사용 방법
 
