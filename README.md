@@ -3,7 +3,7 @@
 ![Server Icon](Icon.png "MaxiMuth Server Icon")
 
 
-이 저장소는 **MAXIMUTH**님의 마인크래프트 서버 설정 파일을 관리하고 기록하기 위한 곳입니다.
+이 저장소는 **MAXIMUTH**의 마인크래프트 서버를 기록하기 위한 곳입니다.
 
 ---
 
