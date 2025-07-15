@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 4번째 기록 - 2025년 7월 15일 - MenuBook 플러그인 GUI 수정
+
+*   `MenuBook` 플러그인 GUI 작동 오류를 수정
+
+
+
 ## 3번째 기록 - 2025년 7월 15일 - MenuBook 플러그인 업데이트
 
 *   `MenuBook` 플러그인 기능 개선
